@@ -1,7 +1,8 @@
 # Website Creation Assistant
 
 An AI-powered agent that automatically generates, displays, and deploys static websites using HTML and Tailwind CSS via MCP and Netlify.
-
+## Demo
+https://github.com/user-attachments/assets/8ec66b58-2e4a-4b82-93c6-f8eaad976d2c
 ## Project Structure
 
 ```plaintext
